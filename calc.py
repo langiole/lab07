@@ -33,7 +33,6 @@ def mult(a, b):
 def div(a, b):
     return a / b
 
-<<<<<<< HEAD
 #exponential function
 def exp(a, b):
     return a ** b
@@ -45,7 +44,6 @@ def exp(a, b):
 def mod(a, b):
     return a % b
 
->>>>>>> e96f190f9ea8be0b7f9bbbb7178b1332f925d13b
 # -------------------------------------------------------- #
 
 
