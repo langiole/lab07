@@ -35,7 +35,7 @@ def div(a, b):
 
 <<<<<<< HEAD
 #exponential function
-def exp(a, b)
+def exp(a, b):
     return a ** b
     
 =======
